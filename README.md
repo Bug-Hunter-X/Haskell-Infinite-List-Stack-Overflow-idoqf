@@ -1,0 +1,1 @@
+This repository contains a demonstration of a common error in Haskell programming involving the improper handling of infinite lists. The `bug.hs` file shows the erroneous code, resulting in a stack overflow. The `bugSolution.hs` provides the corrected code.
