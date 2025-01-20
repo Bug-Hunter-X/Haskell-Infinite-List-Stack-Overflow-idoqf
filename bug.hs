@@ -1,0 +1,1 @@
+This Haskell code uses an infinite list and fails to terminate because the `take` function doesn't limit the computation of the infinite list.  It will continue to generate Fibonacci numbers indefinitely before the `take` function can filter it down to the desired number of elements.
